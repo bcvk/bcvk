@@ -32,11 +32,31 @@ In my free time, I tinker with hardware prototyping (currently an ESP32 S3 based
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-**Web**
+**CRM & Support Platforms**
+ 
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
+![Freshdesk](https://img.shields.io/badge/Freshdesk-25C16F?style=for-the-badge&logo=freshworks&logoColor=white)
+![LivePerson](https://img.shields.io/badge/LivePerson-1E1E1E?style=for-the-badge&logoColor=white)
+![Kustomer](https://img.shields.io/badge/Kustomer-FF6F00?style=for-the-badge&logoColor=white)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Collaboration**
+ 
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+
+**Operations**
+ 
+![Feedback Flows](https://img.shields.io/badge/Feedback_Collection_Flows-555555?style=for-the-badge)
+![Re engagement](https://img.shields.io/badge/Re_engagement_Campaigns-555555?style=for-the-badge)
+![Review Solicitation](https://img.shields.io/badge/Review_Solicitation-555555?style=for-the-badge)
+![Knowledge Base](https://img.shields.io/badge/Knowledge_Base_Mgmt-555555?style=for-the-badge)
+![Process Docs](https://img.shields.io/badge/Process_Documentation-555555?style=for-the-badge)
+
 
 **Hardware**
 
