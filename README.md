@@ -8,7 +8,6 @@ In my free time, I tinker with hardware prototyping (currently an ESP32 S3 based
 
 [![Portfolio](https://img.shields.io/badge/burak.pm-6B1F2A?style=for-the-badge&logo=safari&logoColor=F5EDD8)](https://burak.pm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bcvk)
-[![Email](https://img.shields.io/badge/hello@burak.pm-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@burak.pm)
 
 ---
 
