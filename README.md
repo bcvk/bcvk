@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Burak
 
-Welcome to my GitHub. I'm an Assistant Project Manager at **ModSquad**, where I lead a team of 20+ customer support specialists across various language queues for a major consumer SaaS client.
+Welcome to my GitHub! I'm an Assistant Project Manager at **ModSquad**, where I lead a team of 20+ customer support specialists across various language queues for a major consumer SaaS client.
 
 Beyond operations, I love automating processes for my team. I build tools with Google Apps Script, n8n, and Claude for shift planning, coaching sessions, performance reporting, and quality analysis. My focus is on simplifying repetitive work with an AI first mindset.
 
