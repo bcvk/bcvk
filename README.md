@@ -11,7 +11,7 @@ Hi, I'm Burak Çevik. I lead multilingual customer support teams and build the a
 - **Automation:** if a task repeats every week, I try to automate it. Simple dashboards and small web apps, built with Google Apps Script inside the company workspace.
 - **Building:** I'm working on [Tamga](https://usetamga.com), an AI product for people who do business across borders, and I prototype hardware with ESP32 boards.
 
-Read more about the projects on [burak.pm](https://burak.pm), or in Turkish at [burak.pm/tr](https://burak.pm/tr).
+Read more about the projects on [burak.pm/projects](https://burak.pm/projects), or in Turkish at [burak.pm/tr/projeler](https://burak.pm/tr/projeler).
 
 ## Tools
 
